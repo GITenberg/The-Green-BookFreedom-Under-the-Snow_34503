@@ -1,0 +1,36 @@
+_repo: The-Green-BookFreedom-Under-the-Snow_34503
+_version: 0.1.0
+alternative_title: Szabadság a hó alatt. English
+contributor:
+  translator:
+    agent_name: Waugh, Ellen
+    gutenberg_agent_id: '37056'
+    url: http://www.gutenberg.org/2009/agents/37056
+covers:
+- cover_type: archival
+  image_path: 34503-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jókai, Mór
+    aliases:
+    - Jokai, Maurus
+    - Jokai, Mor
+    birthdate: 1825
+    deathdate: 1904
+    gutenberg_agent_id: '5845'
+    url: http://www.gutenberg.org/2009/agents/5845
+    wikipedia: http://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
+description: ''
+gutenberg_issued: '2010-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Russia -- History -- December Uprising, 1825 -- Fiction'
+title: 'The Green Book; Or, Freedom Under the Snow: A Novel'
+url: http://www.gutenberg.org/ebooks/34503
